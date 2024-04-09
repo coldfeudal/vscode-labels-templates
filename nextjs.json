@@ -3,6 +3,6 @@
         "**/app/*.*": "index/${filename}.${extname}",
         "**/app/*/**/*.*": "${dirname}/${filename}.${extname}",
         "**/pages/*.*": "index/${filename}.${extname}",
-        "**/pages/*/**/*.*": "${dirname}/${filename}.${extname}",
+        "**/pages/*/**/*.*": "${dirname}/${filename}.${extname}"
     }
 }
