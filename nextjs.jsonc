@@ -1,6 +1,8 @@
-"workbench.editor.customLabels.patterns": {
-    "**/app/*.*": "index/${filename}.${extname}",
-    "**/app/*/**/*.*": "${dirname}/${filename}.${extname}",
-    "**/pages/*.*": "index/${filename}.${extname}",
-    "**/pages/*/**/*.*": "${dirname}/${filename}.${extname}",
+{
+    "workbench.editor.customLabels.patterns": {
+        "**/app/*.*": "index/${filename}.${extname}",
+        "**/app/*/**/*.*": "${dirname}/${filename}.${extname}",
+        "**/pages/*.*": "index/${filename}.${extname}",
+        "**/pages/*/**/*.*": "${dirname}/${filename}.${extname}",
+    }
 }
