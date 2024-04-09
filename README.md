@@ -12,5 +12,5 @@ _Feel free to contribute!_
 
 ## Currently added languages
 
-- [NextJS](./nextjs.jsonc) - [official repo](https://github.com/vercel/next.js)
-- [SvelteKit](./sveltekit.jsonc) - [official repo](https://github.com/sveltejs/kit)
+- [NextJS](./configs/nextjs.json) - [official repo](https://github.com/vercel/next.js)
+- [SvelteKit](./configs/sveltekit.json) - [official repo](https://github.com/sveltejs/kit)
