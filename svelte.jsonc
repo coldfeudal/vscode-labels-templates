@@ -1,0 +1,4 @@
+"workbench.editor.customLabels.patterns": {
+    "**/routes/+*.*": "index/${filename}.${extname}",
+    "**/routes/*/**/+*.*": "${dirname}/${filename}.${extname}",
+}
